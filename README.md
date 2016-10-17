@@ -49,9 +49,10 @@
 
 **[5] Quiénes son mis usuarios**
 
-     * Los usuarios que verán mi portafolio serán : Reclutadores , Analistas de Sistemas  , Desarrolladores Frontend Senior.
+     * Los usuarios que verán mi portafolio serán : Reclutadores , 
+     Analistas de Sistemas  , Desarrolladores Frontend Senior.
      
-**[6] Qué es lo que esperan encontrar en mi portafolio **
+**[6] Qué es lo que esperan encontrar en mi portafolio**
 
      * Esperan que demuestre mis conocimientos en las tecnologías.
      que requieren en el anuncio.
@@ -82,5 +83,6 @@
 
 
 #### Wireframes 
+
 Hacer los wireframes de cómo será nuestro portafolio. Con papel y lapicero. 
 
