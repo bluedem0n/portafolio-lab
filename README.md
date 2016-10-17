@@ -1,14 +1,14 @@
 # Portafolio Laboratoria
 
-** [1]  Principal objetivo del portafolio: **
+**[1]  Principal objetivo del portafolio:**
 
      * Mostrar mis conocimientos y proyectos importantes para poder ser contratada en una empresa
 
-** [2]  Principal objetivo del portafolio: **
+**[2]  Principal objetivo del portafolio:**
 
      * Me gustaría trabajar en una Start up o una Corporación.
 
-** [3]  Buscar entre 5 y 10 anuncios de trabajo a los que me gustaría o hubiese gustado postular**
+**[3]  Buscar entre 5 y 10 anuncios de trabajo a los que me gustaría o hubiese gustado postular**
 
 [Link 1](https://www.laborum.pe/p/aviso/615903/)  
 [Link 2](http://aptitus.com/ofertas-de-trabajo/practicante-frontend--grupo-el-comercio--la-victoria-g2ymd)  
