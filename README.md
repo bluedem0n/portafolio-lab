@@ -3,7 +3,9 @@
 **[1]  Principal objetivo del portafolio:**
 
       Mostrar mis conocimientos y proyectos importantes para poder ser contratada en una empresa
-      Puesto deseable Web Developer, Analista programador viendo bases de datos y desarrollo web o tambien quisiera estar en el puesto de Testeo de aplicaciones.
+      Puesto deseable Web Developer, 
+      Analista programador viendo bases de datos y desarrollo web
+      o tambien quisiera estar en el puesto de Testeo de aplicaciones.
 
 **[2]  Principal objetivo del portafolio:**
 
