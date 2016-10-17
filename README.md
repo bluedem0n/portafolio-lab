@@ -1,5 +1,7 @@
 # Portafolio Laboratoria
 
+#### Objetivos
+
 **[1]  Principal objetivo del portafolio:**
 
       Mostrar mis conocimientos y proyectos importantes para poder ser contratada en una empresa
@@ -22,7 +24,9 @@
 [Link 7](https://www.laborum.pe/p/aviso/618187/)  
              
 
-**[4] Hacer una lista de las cosas más comunes que piden.(HTML, CSS, JS, Inglés, Bootstrap) ¿Qué tengo? ¿Qué me faltaría aprender?**
+**[4] Lista de las cosas más comunes que piden.**
+
+**Tengo :**
 
       1. HTML5
       2. CSS3
@@ -40,3 +44,43 @@
 **Me falta y gustaría aprender :**
 
        PYTHON / PHP / RUBY / Desarrollo en IOS / NODE.JS 
+
+#### Usuarios
+
+**[5] Quiénes son mis usuarios**
+
+     * Los usuarios que verán mi portafolio serán : Reclutadores , Analistas de Sistemas  , Desarrolladores Frontend Senior.
+     
+**[6] Qué es lo que esperan encontrar en mi portafolio **
+
+     * Esperan que demuestre mis conocimientos en las tecnologías.
+     que requieren en el anuncio.
+     * Saber un poco acerca de mi personalidad.
+     * Conocer mi creatividad.
+     * Reconocer mis habilidades para la programación. 
+
+#### Contenido 
+
+**[7] ¿Hacía dónde enfoco mi portafolio?**
+
+**[8] ¿Qué proyectos voy a mostrar?**
+
+**[9] ¿ Qué voy mostrar de cada proyecto?**
+
+**[10] ¿Qué voy a mostrar sobre mi?**
+
+**[11] Definir el contenido del sitio - qué secciones tendrá**
+
+**[12] Definir el menu de mi portafolio**
+
+
+#### Referencias
+
+**[13] Links de portafolios**
+
+**[14] ¿Qué me gustó y por qué?**
+
+
+#### Wireframes 
+Hacer los wireframes de cómo será nuestro portafolio. Con papel y lapicero. 
+
