@@ -82,11 +82,15 @@
 
 **[14] ¿Qué me gustó y por qué?**
 
+#### Portafolio 1
+
 [Adhamd annaway](http://www.adhamdannaway.com/)  
 
 ![](https://s13.postimg.org/kuyhnzmtz/image.png)
 
 Me llamo la atención el efecto que tiene la imagen de la persona y el menu rescato esa sección del portafolio.
+
+#### Portafolio 2
 
 [madebytj.com](http://www.madebytj.com/)  
 
@@ -94,10 +98,14 @@ Me llamo la atención el efecto que tiene la imagen de la persona y el menu resc
 
 Me gusta la estructura del proyecto no tiene muchos efectos es de facil navegación y tiene una vista previa de los proyectos mostrados 
 
+#### Portafolio 3
+
 [andrew](http://www.hm-andrew.com/)
-![]()
+![](https://s21.postimg.org/f9drebcrr/sdfdfdsf.png)
 
 El color verde es uno de mis colores favoritos la naturaleza y el espacio siento que mi portafolio debe tener alguno de esos colores   
+
+#### Portafolio 4
 
 [capauwels](http://capauwels.com/)
 
@@ -105,35 +113,44 @@ El color verde es uno de mis colores favoritos la naturaleza y el espacio siento
 
 Tiene una web tan interactiva que me invita a seguir navegando por ella me gusta mucho
 
+#### Portafolio 5
+
 [kaisersosa](http://www.kaisersosa.com/)
 
 ![](https://s13.postimg.org/xsuybbv4n/6.png)
 
 De este portafolio me llevo la forma en la que estan diseñadas los dibujos animados   
 
+#### Portafolio 6
+
 [umarsheikh](http://umarsheikh.co.uk/#/umar-sheikh)
 
 ![](https://s13.postimg.org/xsuybbv4n/6.png)
 
+#### Portafolio 7
 
 [katiuskaflores](http://www.katiuskaflores.com/)
 
 ![](https://s13.postimg.org/7zv3eywyf/8.png)
 
 
+#### Portafolio 8
+
 [arlain](http://arlain.net/)
 
 ![](https://s13.postimg.org/ca9rak21j/image.png)
 
+#### Portafolio 9
 
+[mydirtydesk](http://www.mydirtydesk.com/)
 
-[umarsheikh](http://www.mydirtydesk.com/)
+#### Portafolio 10
 
-![](https://s13.postimg.org/xsuybbv4n/6.png)
+![](https://s13.postimg.org/u1ldp0hg7/10.png)
 
+#### Portafolio 11
 
-
-[umarsheikh](http://pollenlondon.com/)
+[pollenlondon](http://pollenlondon.com/)
 
 ![](https://s13.postimg.org/xc9qow7dj/3.png)
 
