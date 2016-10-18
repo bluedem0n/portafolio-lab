@@ -62,7 +62,8 @@
 
 #### Contenido 
 
-**[7] ¿Hacía dónde enfoco mi portafolio?**
+**[7] ¿Hacía dónde enfoco mi portafolio?**}
+
 
 **[8] ¿Qué proyectos voy a mostrar?**
 
@@ -80,6 +81,47 @@
 **[13] Links de portafolios**
 
 **[14] ¿Qué me gustó y por qué?**
+
+[Adhamd annaway](http://www.adhamdannaway.com/)  
+
+![](https://s13.postimg.org/kuyhnzmtz/image.png)
+
+Me llamo la atención el efecto que tiene la imagen de la persona y el menu rescato esa sección del portafolio.
+
+[madebytj.com](http://www.madebytj.com/)  
+
+![](https://s13.postimg.org/5ar3xgcpj/2.png)
+
+Me gusta la estructura del proyecto no tiene muchos efectos es de facil navegación y tiene una vista previa de los proyectos mostrados 
+
+[andrew](http://www.hm-andrew.com/)
+![]()
+
+El color verde es uno de mis colores favoritos la naturaleza y el espacio siento que mi portafolio debe tener alguno de esos colores 
+
+[capauwels](http://capauwels.com/)
+![](https://s13.postimg.org/5rgwxmpuf/5.png)
+
+Tiene una web tan interactiva que me invita a seguir navegando por ella me gusta mucho
+
+[kaisersosa](http://www.kaisersosa.com/)
+![](https://s13.postimg.org/xsuybbv4n/6.png)
+
+De este portafolio me llevo la forma en la que estan diseñadas los dibujos animados 
+
+
+http://umarsheikh.co.uk/#/umar-sheikh
+
+http://www.katiuskaflores.com/
+http://arlain.net/
+Nuevamente los colores simples y el estilo mas centrado y el menu de forma vertical
+
+
+http://www.mydirtydesk.com/
+
+
+http://pollenlondon.com/
+
 
 
 #### Wireframes 
