@@ -173,13 +173,16 @@ Me gusta la forma en la que muestra sus proyectos
 
 ![](https://s13.postimg.org/ca9rak21j/image.png)
 
+Nuevamente los colores simples y el estilo mas centrado y el menu de forma vertical
+
+
 ### Portafolio 9
 
 [mydirtydesk](http://www.mydirtydesk.com/)
 
 ![](https://s13.postimg.org/u1ldp0hg7/10.png)
 
-Nuevamente los colores simples y el estilo mas centrado y el menu de forma vertical
+Me llama la atención como combina las figuras geometricas y se puede ir navegando por la web
 
 ### Portafolio 10
 
@@ -187,13 +190,7 @@ Nuevamente los colores simples y el estilo mas centrado y el menu de forma verti
 
 ![](https://s13.postimg.org/xc9qow7dj/3.png)
 
-Me llama la atención como combina las figuras geometricas y se puede ir navegando por la web
-
-
-
-
-
-
+De este portafolio rescato esta sección en la que van apareciendo alguna vista previa de lo que quiere mostrar
 
 
 #### Wireframes 
