@@ -67,10 +67,11 @@
 
 
 **[8] ¿Qué proyectos voy a mostrar?**
+
 Voy a hacer secciones de mi proyecto en el cual se pueda apreciar que soy capaz de hacer, una seccion HTML CSS y otra con JS Jquery animaciones web y tambien incluiré un proyecto en el cual puedan ver que tengo habilidades de backend
 
-      1. Un proyecto de E-commerce
-      2. Un landing page
+      1. Proyecto de E-commerce
+      2. Proyecto Lyft
       3. Proyecto de videojuego en Js
       4. Proyectos de redes sociales (Whatssapp web , Facebook , Twitter)
       5. Proyectos realizados en JAVA Y C#
@@ -82,13 +83,27 @@ Voy a hacer secciones de mi proyecto en el cual se pueda apreciar que soy capaz 
 
 **[10] ¿Qué voy a mostrar sobre mi?**
 
-Mis gustos por la naturaleza los videojuegos la fotografía.El amor por la tecnología y el aprendizaje , compartir mis gustos por la música y que al ver mi portafolio descubran quien soy.
+      1. Tecnología
+      2. Videojuegos
+      3. Fotografía
+      4. Naturaleza
+      5. Música  
+      6. Astronomía y espacio
 
 **[11] Definir el contenido del sitio - qué secciones tendrá**
 
+      Me llamaron la atención estas secciones:
+      
+      
+      https://es.pinterest.com/pin/536280268111067857/
+      
+      De este va orientado al espacio pero aun no defino como combinar todos mis gustos en mi web
+      
+      https://es.pinterest.com/pin/206321226657030080/
+
 
 **[12] Definir el menu de mi portafolio**
-
+      
 
 #### Referencias
 
