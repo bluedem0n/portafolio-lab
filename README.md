@@ -65,13 +65,27 @@
 **[7] ¿Hacía dónde enfoco mi portafolio?**}
 
 
+
 **[8] ¿Qué proyectos voy a mostrar?**
+Voy a hacer secciones de mi proyecto en el cual se pueda apreciar que soy capaz de hacer, una seccion HTML CSS y otra con JS Jquery animaciones web y tambien incluiré un proyecto en el cual puedan ver que tengo habilidades de backend
+
+      1. Un proyecto de E-commerce
+      2. Un landing page
+      3. Proyecto de videojuego en Js
+      4. Proyectos de redes sociales (Whatssapp web , Facebook , Twitter)
+      5. Proyectos realizados en JAVA Y C#
+      
 
 **[9] ¿ Qué voy mostrar de cada proyecto?**
+      
+      Quiero mostrar la vista previa de mi web y mostrar el link donde se encuentra
 
 **[10] ¿Qué voy a mostrar sobre mi?**
 
+Mis gustos por la naturaleza los videojuegos la fotografía.El amor por la tecnología y el aprendizaje , compartir mis gustos por la música y que al ver mi portafolio descubran quien soy.
+
 **[11] Definir el contenido del sitio - qué secciones tendrá**
+
 
 **[12] Definir el menu de mi portafolio**
 
@@ -125,7 +139,7 @@ De este portafolio me llevo la forma en la que estan diseñadas los dibujos anim
 
 [umarsheikh](http://umarsheikh.co.uk/#/umar-sheikh)
 
-![](https://s13.postimg.org/xsuybbv4n/6.png)
+![](https://s18.postimg.org/w3qemyy55/image.png)
 
 ### Portafolio 7
 
