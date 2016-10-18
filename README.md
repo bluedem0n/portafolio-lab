@@ -97,30 +97,50 @@ Me gusta la estructura del proyecto no tiene muchos efectos es de facil navegaci
 [andrew](http://www.hm-andrew.com/)
 ![]()
 
-El color verde es uno de mis colores favoritos la naturaleza y el espacio siento que mi portafolio debe tener alguno de esos colores 
+El color verde es uno de mis colores favoritos la naturaleza y el espacio siento que mi portafolio debe tener alguno de esos colores   
 
 [capauwels](http://capauwels.com/)
+
 ![](https://s13.postimg.org/5rgwxmpuf/5.png)
 
 Tiene una web tan interactiva que me invita a seguir navegando por ella me gusta mucho
 
 [kaisersosa](http://www.kaisersosa.com/)
+
 ![](https://s13.postimg.org/xsuybbv4n/6.png)
 
-De este portafolio me llevo la forma en la que estan diseñadas los dibujos animados 
+De este portafolio me llevo la forma en la que estan diseñadas los dibujos animados   
+
+[umarsheikh](http://umarsheikh.co.uk/#/umar-sheikh)
+
+![](https://s13.postimg.org/xsuybbv4n/6.png)
 
 
-http://umarsheikh.co.uk/#/umar-sheikh
+[umarsheikh](http://www.katiuskaflores.com/)
 
-http://www.katiuskaflores.com/
-http://arlain.net/
+![](https://s13.postimg.org/xsuybbv4n/6.png)
+
+
+[umarsheikh](http://arlain.net/)
+
+![](https://s13.postimg.org/xsuybbv4n/6.png)
+
+
+
+[umarsheikh](http://www.mydirtydesk.com/)
+
+![](https://s13.postimg.org/xsuybbv4n/6.png)
+
+
+
+[umarsheikh](http://pollenlondon.com/)
+
+![](https://s13.postimg.org/xsuybbv4n/6.png)
+
+
+
 Nuevamente los colores simples y el estilo mas centrado y el menu de forma vertical
 
-
-http://www.mydirtydesk.com/
-
-
-http://pollenlondon.com/
 
 
 
