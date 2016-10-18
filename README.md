@@ -116,14 +116,14 @@ De este portafolio me llevo la forma en la que estan diseñadas los dibujos anim
 ![](https://s13.postimg.org/xsuybbv4n/6.png)
 
 
-[umarsheikh](http://www.katiuskaflores.com/)
+[katiuskaflores](http://www.katiuskaflores.com/)
 
-![](https://s13.postimg.org/xsuybbv4n/6.png)
+![](https://s13.postimg.org/7zv3eywyf/8.png)
 
 
-[umarsheikh](http://arlain.net/)
+[arlain](http://arlain.net/)
 
-![](https://s13.postimg.org/xsuybbv4n/6.png)
+![](https://s13.postimg.org/ca9rak21j/image.png)
 
 
 
@@ -135,7 +135,7 @@ De este portafolio me llevo la forma en la que estan diseñadas los dibujos anim
 
 [umarsheikh](http://pollenlondon.com/)
 
-![](https://s13.postimg.org/xsuybbv4n/6.png)
+![](https://s13.postimg.org/xc9qow7dj/3.png)
 
 
 
