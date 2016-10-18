@@ -156,11 +156,15 @@ De este portafolio me llevo la forma en la que estan diseñadas los dibujos anim
 
 ![](https://s18.postimg.org/w3qemyy55/image.png)
 
+Tiene un estilo que me llama la atención y el menu vertical 
+
 ### Portafolio 7
 
 [katiuskaflores](http://www.katiuskaflores.com/)
 
 ![](https://s13.postimg.org/7zv3eywyf/8.png)
+
+Me gusta la forma en la que muestra sus proyectos
 
 
 ### Portafolio 8
@@ -175,15 +179,19 @@ De este portafolio me llevo la forma en la que estan diseñadas los dibujos anim
 
 ![](https://s13.postimg.org/u1ldp0hg7/10.png)
 
+Nuevamente los colores simples y el estilo mas centrado y el menu de forma vertical
+
 ### Portafolio 10
 
 [pollenlondon](http://pollenlondon.com/)
 
 ![](https://s13.postimg.org/xc9qow7dj/3.png)
 
+Me llama la atención como combina las figuras geometricas y se puede ir navegando por la web
 
 
-Nuevamente los colores simples y el estilo mas centrado y el menu de forma vertical
+
+
 
 
 
